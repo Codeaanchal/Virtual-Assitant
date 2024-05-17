@@ -9,7 +9,7 @@ This is a Virtual Assistant built with a Python Flask backend and a frontend usi
 ### Clone the Repository
 
 ```bash
-git clone https:/annaCode/github.com//virtual-assistant.git
+git clone https://github.com/Codeaanchal/Virtual-Assitant.git
 cd virtual-assistant
 
 # Create and activate a virtual environment (optional but recommended)
